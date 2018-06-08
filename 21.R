@@ -1,3 +1,7 @@
+# CARD GAME 21
+
+# AUTHOR  :  DIVYA AGARWAL
+
 
 DeckOfPlayingCards <- matrix(nrow=3,ncol=52)
 YourTotalScore <- 0
